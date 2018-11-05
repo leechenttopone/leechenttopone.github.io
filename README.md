@@ -1,2 +1,3 @@
 # leechenttopone.github.io
-public
+自底向上
+纯手撸，拒绝Ctrl+C ,Ctrl+V
